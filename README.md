@@ -44,6 +44,7 @@ Department: Information security, specialty:  Security of information and commun
 2013 - present: Reaktivate, Kiyv, Ukraine
 
 Position: Full Stack Developer & DevOps Lead
+
 - System design
 - Development, refactoring, bugfixing, code review
 - Production deployment
@@ -51,6 +52,7 @@ Position: Full Stack Developer & DevOps Lead
 2011 - 2013: Ukr.Net, Kiyv, Ukraine
 
 Position: Junior Full Stack Developer
+
 - Development, refactoring, bugfixing, code review
 
 2008 - 2011: Internet Provider *"BEST"*, Kiyv. Ukraine
@@ -61,20 +63,24 @@ Position: Technical support & System Administrator
 ##Notable projects
 ####JOB.ukr.net
 *Classic JOB-board*
+
 - Position: Junior Full Stack Developer
 - Technologies: PHP 5.x, MySQL, html5, css3, JavaScript, Sphinx full text search
 
 ####QuickEstate
 *QuickEstate™ uses technology to streamline the lengthy process of settling an estate, putting the executor in control, eliminating frustrating time delays and high costs.*
+
 - Position: Full Stack Developer
 - Technologies: NodeJS, BackboneJS, MarionetteJS, AngularJS, SailsJS, MySQL, MongoDB, jade, scss.
 
 ####OSCM3
 *Web based multi-user contracts/documents management system supporting access permissions, periodic email event reminders, scanned documents OCR, full-text search*
+
 - Position: Automated test coverage
 - Technologies: html5, angular.js, node.js, express.js, postgresql, docker
 - Mocha, Chai, Supertest – API, Unit backend tests; Protractor, Jasmine – E2E frontend tests
 
 ####ClickSoftWare
+
 - Position: Penetration test
 - Technologies: Kali linux, Nessus, arpspoof, iptables, SSLstrip, Silverlight spy
