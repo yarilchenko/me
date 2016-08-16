@@ -63,15 +63,18 @@ Position: Technical support & System Administrator
 *Classic JOB-board*
 - Position: Junior Full Stack Developer
 - Technologies: PHP 5.x, MySQL, html5, css3, JavaScript, Sphinx full text search
+
 ####QuickEstate
 *QuickEstate™ uses technology to streamline the lengthy process of settling an estate, putting the executor in control, eliminating frustrating time delays and high costs.*
 - Position: Full Stack Developer
 - Technologies: NodeJS, BackboneJS, MarionetteJS, AngularJS, SailsJS, MySQL, MongoDB, jade, scss.
+
 ####OSCM3
 *Web based multi-user contracts/documents management system supporting access permissions, periodic email event reminders, scanned documents OCR, full-text search*
 - Position: Automated test coverage
 - Technologies: html5, angular.js, node.js, express.js, postgresql, docker
 - Mocha, Chai, Supertest – API, Unit backend tests; Protractor, Jasmine – E2E frontend tests
+
 ####ClickSoftWare
 - Position: Penetration test
 - Technologies: Kali linux, Nessus, arpspoof, iptables, SSLstrip, Silverlight spy
