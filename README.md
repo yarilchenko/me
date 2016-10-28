@@ -3,13 +3,6 @@
 ##Name
 Artem Yarylchenko
 
-##Contacts
-*Email:* [a.yarilchenko@gmail.com](mailto:a.yarilchenko@gmail.com)
-
-*Mobile Phone:* +38 093 *** 39 65
-
-*Skype:* jmprok
-
 ##Personal information:
 *DOB:* November 2, 1990
 
