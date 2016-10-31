@@ -53,7 +53,7 @@ Position: Junior Full Stack Developer
 Position: Technical support & System Administrator
 
 
-##NodeJS work experience:
+##NodeJS work experience
 - Backend development with SailsJS (RESTful API)
 - PayPal integration on NodeJS
 - Web server(Express framework) + Slack bot for Docker containers management
