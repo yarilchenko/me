@@ -12,14 +12,17 @@ Artem Yarylchenko
 
 ##Knowledges & Skills
 - PHP, JavaScript, Perl(basic), C++(basic), Java(basic);
-- HTML5/jade, CSS3/scss;
+- HTML5/jade, CSS3/SCSS/SASS/LESS;
 - SailsJS, AngularJS, MeteorJS, MarionetteJS, BackboneJS, jQuery
+- ReactJS, React Native, redux;
+- MochaJS, ChaiJS, Protractor, PhantomJS, Selenium;
 - ZendFramework, Yii
 - Docker
+- gitlab CI, bitbucket pipelines, bamboo CI, bitrise;
 - Nagios, Zabbix
-- MySQL, MongoDB
+- MySQL, MongoDB, Firebase (DB)
 - Git, SVN
-- *unix and Windows OS's
+- Linux, Ubuntu, FreeBSD and Windows OS's
 
 ##Languages
 Language | Level
@@ -48,7 +51,7 @@ Position: Junior Full Stack Developer
 
 - Development, refactoring, bugfixing, code review
 
-2008 - 2011: Internet Provider *"BEST"*, Kiyv. Ukraine
+2008 - 2011: Internet Service Provider *"BEST"*, Kiyv. Ukraine
 
 Position: Technical support & System Administrator
 
