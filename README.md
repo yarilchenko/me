@@ -19,7 +19,6 @@ Artem Yarylchenko
 - ZendFramework, Yii
 - Docker
 - gitlab CI, bitbucket pipelines, bamboo CI, bitrise;
-- Nagios, Zabbix
 - MySQL, MongoDB, Firebase (DB)
 - Git, SVN
 - Linux, Ubuntu, FreeBSD and Windows OS's
@@ -37,21 +36,21 @@ English | pre-intermediate
 Department: Information security, specialty:  Security of information and communication systems;
 
 ## Experience
-2013 - present: Reaktivate, Kiyv, Ukraine
+### 2013 - present: Reaktivate, Kiyv, Ukraine
 
-Position: Full Stack Developer & DevOps Lead
+Position: JavaScript Full Stack Developer
 
 - System design
 - Development, refactoring, bugfixing, code review
-- Production deployment
+- Product deployment
 
-2011 - 2013: Ukr.Net, Kiyv, Ukraine
+### 2011 - 2013: Ukr.Net, Kiyv, Ukraine
 
 Position: Junior Full Stack Developer
 
 - Development, refactoring, bugfixing, code review
 
-2008 - 2011: Internet Service Provider *"BEST"*, Kiyv. Ukraine
+### 2008 - 2011: Internet Service Provider *"BEST"*, Kiyv. Ukraine
 
 Position: Technical support & System Administrator
 
