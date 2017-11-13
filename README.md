@@ -11,7 +11,7 @@ Artem Yarylchenko
 *Residence:* Kiyv, Ukraine
 
 ## Knowledges & Skills
-- PHP, JavaScript, Perl(basic), C++(basic), Java(basic);
+- JavaScript, PHP, Perl(basic), C++(basic), Java(basic);
 - HTML5/jade, CSS3/SCSS/SASS/LESS;
 - SailsJS, AngularJS, MeteorJS, MarionetteJS, BackboneJS, jQuery
 - ReactJS, React Native, redux;
