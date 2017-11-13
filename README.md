@@ -1,16 +1,16 @@
 # About me
 
-##Name
+## Name
 Artem Yarylchenko
 
-##Personal information:
+## Personal information:
 *DOB:* November 2, 1990
 
 *Nationality:* Ukraine
 
 *Residence:* Kiyv, Ukraine
 
-##Knowledges & Skills
+## Knowledges & Skills
 - PHP, JavaScript, Perl(basic), C++(basic), Java(basic);
 - HTML5/jade, CSS3/SCSS/SASS/LESS;
 - SailsJS, AngularJS, MeteorJS, MarionetteJS, BackboneJS, jQuery
@@ -24,19 +24,19 @@ Artem Yarylchenko
 - Git, SVN
 - Linux, Ubuntu, FreeBSD and Windows OS's
 
-##Languages
+## Languages
 Language | Level
 --- | ---
 Ukrainian | Native
 Russian | Native
 English | pre-intermediate
 
-##Education
+## Education
 2011-2016 State University of Telecommunications
 
 Department: Information security, specialty:  Security of information and communication systems;
 
-##Experience
+## Experience
 2013 - present: Reaktivate, Kiyv, Ukraine
 
 Position: Full Stack Developer & DevOps Lead
@@ -56,7 +56,7 @@ Position: Junior Full Stack Developer
 Position: Technical support & System Administrator
 
 
-##NodeJS work experience
+## NodeJS work experience
 - Backend development with SailsJS (RESTful API)
 - PayPal integration on NodeJS
 - Web server(Express framework) + Slack bot for Docker containers management
@@ -64,27 +64,27 @@ Position: Technical support & System Administrator
 - Development on Backbone.js + deployd 
 
 
-##Notable projects
-####JOB.ukr.net
+## Notable projects
+#### JOB.ukr.net
 *Classic JOB-board*
 
 - Position: Junior Full Stack Developer
 - Technologies: PHP 5.x, MySQL, html5, css3, JavaScript, Sphinx full text search
 
-####QuickEstate
+#### QuickEstate
 *QuickEstate™ uses technology to streamline the lengthy process of settling an estate, putting the executor in control, eliminating frustrating time delays and high costs.*
 
 - Position: Full Stack Developer
 - Technologies: NodeJS, BackboneJS, MarionetteJS, AngularJS, SailsJS, MySQL, MongoDB, jade, scss.
 
-####OSCM3
+#### OSCM3
 *Web based multi-user contracts/documents management system supporting access permissions, periodic email event reminders, scanned documents OCR, full-text search*
 
 - Position: Automated test coverage
 - Technologies: html5, angular.js, node.js, express.js, postgresql, docker
 - Mocha, Chai, Supertest – API, Unit backend tests; Protractor, Jasmine – E2E frontend tests
 
-####ClickSoftWare
+#### ClickSoftWare
 
 - Position: Penetration test
 - Technologies: Kali linux, Nessus, arpspoof, iptables, SSLstrip, Silverlight spy
