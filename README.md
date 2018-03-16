@@ -11,24 +11,25 @@ Artem Yarylchenko
 *Residence:* Kiyv, Ukraine
 
 ## Knowledges & Skills
-- JavaScript, PHP, Perl(basic), C++(basic), Java(basic);
-- HTML5/jade, CSS3/SCSS/SASS/LESS;
-- SailsJS, AngularJS, MeteorJS, MarionetteJS, BackboneJS, jQuery
-- ReactJS, React Native, redux;
-- MochaJS, ChaiJS, Protractor, PhantomJS, Selenium;
-- ZendFramework, Yii
-- Docker
-- gitlab CI, bitbucket pipelines, bamboo CI, bitrise;
-- MySQL, MongoDB, Firebase (DB)
-- Git, SVN
-- Linux, Ubuntu, FreeBSD and Windows OS's
+- Languages: JavaScript, PHP, Perl(basic), C++(basic), Java(basic);
+- Markup languages: HTML5/jade, CSS3/SCSS/SASS/LESS;
+- JS frameworks: SailsJS, AngularJS, MeteorJS, MarionetteJS, BackboneJS, jQuery
+- JS libraries: ReactJS, React Native, redux;
+- Test libraries: MochaJS, ChaiJS, Protractor, PhantomJS, Selenium;
+- PHP frameworks: ZendFramework
+- Container platform provider: Docker
+- Development platform: ServiceNow
+- CI's: gitlab CI, bitbucket pipelines, bamboo CI, bitrise;
+- Databases: MySQL, MongoDB, Firebase (DB)
+- Version control system: Git, SVN
+- OS's: Linux, Ubuntu, FreeBSD and Windows OS's
 
 ## Languages
 Language | Level
 --- | ---
 Ukrainian | Native
 Russian | Native
-English | pre-intermediate
+English | intermediate
 
 ## Education
 2011-2016 State University of Telecommunications
@@ -36,7 +37,7 @@ English | pre-intermediate
 Department: Information security, specialty:  Security of information and communication systems;
 
 ## Experience
-### 2013 - present: Reaktivate, Kiyv, Ukraine
+### 2013 - 2017: Reaktivate, Kiyv, Ukraine
 
 Position: JavaScript Full Stack Developer
 
