@@ -37,6 +37,15 @@ English | intermediate
 Department: Information security, specialty:  Security of information and communication systems;
 
 ## Experience
+
+### 2017 - present
+
+Position: JavaScript Full Stack Developer
+
+- System design
+- Development of new features based on ServiceNow platform
+- Frontend development (Angular 1.5)
+
 ### 2013 - 2017: Reaktivate, Kiyv, Ukraine
 
 Position: JavaScript Full Stack Developer
