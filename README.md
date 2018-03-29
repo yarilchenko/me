@@ -38,7 +38,7 @@ Department: Information security, specialty:  Security of information and commun
 
 ## Experience
 
-### 2017 - present
+### 2017 - present: MobiChord Inc, Kiyv, Ukraine
 
 Position: JavaScript Full Stack Developer
 
