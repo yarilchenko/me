@@ -15,7 +15,7 @@ Artem Yarylchenko
 - Markup languages: HTML5/jade, CSS3/SCSS/SASS/LESS;
 - JS frameworks: SailsJS, AngularJS, MeteorJS, MarionetteJS, BackboneJS, jQuery
 - JS libraries: ReactJS, React Native, redux;
-- Test libraries: MochaJS, ChaiJS, Protractor, PhantomJS, Selenium;
+- Testing: MochaJS, ChaiJS, Protractor, PhantomJS, Selenium;
 - PHP frameworks: ZendFramework
 - Container platform provider: Docker
 - Development platform: ServiceNow
