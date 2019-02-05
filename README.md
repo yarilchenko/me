@@ -11,16 +11,16 @@ Artem Yarylchenko
 *Residence:* Kiyv, Ukraine
 
 ## Knowledges & Skills
-- Languages: JavaScript, PHP, Perl(basic), C++(basic), Java(basic);
-- Markup languages: HTML5/jade, CSS3/SCSS/SASS/LESS;
-- JS frameworks: SailsJS, AngularJS, MeteorJS, MarionetteJS, BackboneJS, jQuery
-- JS libraries: ReactJS, React Native, redux;
-- Testing: MochaJS, ChaiJS, Protractor, PhantomJS, Selenium;
+- Languages: JavaScript (ES5/ES6), PHP, Perl(basic), C++(basic), Java(basic);
+- Markup languages: HTML5/jade, CSS3/SCSS/LESS;
+- JS frameworks: SailsJS, AngularJS, MeteorJS, MarionetteJS;
+- JS libraries: ReactJS, React Native, Redux, jQuery;
+- Testing: MochaJS, ChaiJS, Protractor, Jest + Enzyme;
 - PHP frameworks: ZendFramework
 - Container platform provider: Docker
 - Development platform: ServiceNow
 - CI's: gitlab CI, bitbucket pipelines, bamboo CI, bitrise;
-- Databases: MySQL, MongoDB, Firebase (DB)
+- Databases: MySQL, MongoDB
 - Version control system: Git, SVN
 - OS's: Linux, Ubuntu, FreeBSD and Windows OS's
 
@@ -38,7 +38,16 @@ Department: Information security, specialty:  Security of information and commun
 
 ## Experience
 
-### 2017 - present: MobiChord Inc, Kiyv, Ukraine
+### 2018 - present: DjangoStars, Kiyv, Ukraine
+
+Position: Frontend Technical Lead
+
+- System design
+- Development, code review
+- Live interview
+- Development of knowledge assessment system
+
+### 2017 - 2018: MobiChord Inc, Kiyv, Ukraine
 
 Position: JavaScript Full Stack Developer
 
@@ -74,6 +83,19 @@ Position: Technical support & System Administrator
 
 
 ## Notable projects
+
+#### MoneyPark
+*MoneyPark – A FinTech company revolutionizes the mortgage market*
+
+- Position: Frontend Technical Lead
+- Technologies: React, Angular 1.6, jQuery, Vanilla JS, LESS + SCSS + CSS Modules
+
+#### MobiChord
+*Mobichord unique telecom and cloud management solution built natively on ServiceNow platform*
+
+- Position: JavaScript Fullstack Developer
+- Technologies: JS (ES5), ServiceNow, Angular 1.6, SCSS
+
 #### JOB.ukr.net
 *Classic JOB-board*
 
