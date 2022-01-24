@@ -11,10 +11,10 @@ Artem Yarylchenko
 *Residence:* Kiyv, Ukraine
 
 ## Knowledges & Skills
-- Languages: JavaScript (ES5/ES6), PHP, Perl(basic), C++(basic), Java(basic);
-- Markup languages: HTML5/jade, CSS3/SCSS/LESS;
+- Languages: JavaScript (ES5/ES6), PHP, TypeScript
+- Markup languages: HTML5, CSS3/SCSS/LESS;
 - JS frameworks: SailsJS, AngularJS, MeteorJS, MarionetteJS;
-- JS libraries: ReactJS, React Native, Redux, jQuery;
+- JS libraries: ReactJS, React Native, Redux, MobX (MST);
 - Testing: MochaJS, ChaiJS, Protractor, Jest + Enzyme;
 - PHP frameworks: ZendFramework
 - Container platform provider: Docker
@@ -22,7 +22,7 @@ Artem Yarylchenko
 - CI's: gitlab CI, bitbucket pipelines, bamboo CI, bitrise;
 - Databases: MySQL, MongoDB
 - Version control system: Git, SVN
-- OS's: Linux, Ubuntu, FreeBSD and Windows OS's
+- OS's: Windows, unix*
 
 ## Languages
 Language | Level
@@ -38,7 +38,14 @@ Department: Information security, specialty:  Security of information and commun
 
 ## Experience
 
-### 2018 - present: DjangoStars, Kiyv, Ukraine
+### 2020 - present: Allset, Kyiv, Ukraine
+
+Position: Senior frontend developer
+
+- Application architecture development
+- Development, code review
+
+### 2018 - 2020: DjangoStars, Kyiv, Ukraine
 
 Position: Frontend Technical Lead
 
@@ -47,7 +54,7 @@ Position: Frontend Technical Lead
 - Live interview
 - Development of knowledge assessment system
 
-### 2017 - 2018: MobiChord Inc, Kiyv, Ukraine
+### 2017 - 2018: MobiChord Inc, Kyiv, Ukraine
 
 Position: JavaScript Full Stack Developer
 
@@ -55,7 +62,7 @@ Position: JavaScript Full Stack Developer
 - Development of new features based on ServiceNow platform
 - Frontend development (Angular 1.5)
 
-### 2013 - 2017: Reaktivate, Kiyv, Ukraine
+### 2013 - 2017: Reaktivate, Kyiv, Ukraine
 
 Position: JavaScript Full Stack Developer
 
@@ -63,13 +70,13 @@ Position: JavaScript Full Stack Developer
 - Development, refactoring, bugfixing, code review
 - Product deployment
 
-### 2011 - 2013: Ukr.Net, Kiyv, Ukraine
+### 2011 - 2013: Ukr.Net, Kyiv, Ukraine
 
 Position: Junior Full Stack Developer
 
 - Development, refactoring, bugfixing, code review
 
-### 2008 - 2011: Internet Service Provider *"BEST"*, Kiyv. Ukraine
+### 2008 - 2011: Internet Service Provider *"BEST"*, Kyiv. Ukraine
 
 Position: Technical support & System Administrator
 
