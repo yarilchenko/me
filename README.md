@@ -38,14 +38,21 @@ Department: Information security, specialty:  Security of information and commun
 
 ## Experience
 
-### 2020 - present: Allset, Kyiv, Ukraine
+### 2022 - 2023: JustAnswer, Ukraine
+
+Position: Senior frontend developer
+
+- System design
+- Development, code review, bug fixing, covering new and existing code with tests
+
+### 2019 - 2022: Allset, Kyiv, Ukraine
 
 Position: Senior frontend developer
 
 - Application architecture development
 - Development, code review
 
-### 2018 - 2020: DjangoStars, Kyiv, Ukraine
+### 2018 - 2019: DjangoStars, Kyiv, Ukraine
 
 Position: Frontend Technical Lead
 
