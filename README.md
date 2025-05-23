@@ -11,13 +11,14 @@ Artem Yarylchenko
 *Residence:* Kiyv, Ukraine
 
 ## Knowledges & Skills
-- Languages: JavaScript (ES5/ES6), PHP, TypeScript
+- Languages: JavaScript (ES5/ES6) / NodeJS, PHP, TypeScript
 - Markup languages: HTML5, CSS3/SCSS/LESS;
-- JS frameworks: SailsJS, AngularJS, MeteorJS, MarionetteJS;
+- JS frameworks: SailsJS, AngularJS, MeteorJS, MarionetteJS, NextJS, NestJS;
 - JS libraries: ReactJS, React Native, Redux, MobX (MST);
+- Monitoring: Prometheus, Grafana;
 - Testing: MochaJS, ChaiJS, Protractor, Jest + Enzyme;
 - PHP frameworks: ZendFramework
-- Container platform provider: Docker
+- Container platform provider: Docker (Docker swarm clustring)
 - Development platform: ServiceNow
 - CI's: gitlab CI, bitbucket pipelines, bamboo CI, bitrise;
 - Databases: MySQL, MongoDB
