@@ -38,6 +38,16 @@ Department: Information security, specialty:  Security of information and commun
 
 ## Experience
 
+### 2023 - 2025: TGlist, Ukraine
+Position: Senior FullStack JavaScript Developer
+
+- Frontend development using Next.js@13
+- Designing and scaling the backend to handle high traffic and improve efficiency
+- Optimizing PostgreSQL database performance and improving the overall performance of NodeJS applications.
+- Setting up monitoring and alerting using Prometheus and Grafana for better visibility of system health and performance.
+- Deploying a Docker Swarm cluster to manage containerized applications with high availability.
+- Working with TDLib (Telegram Database Library) to integrate Telegram client features into the platform.
+
 ### 2022 - 2023: JustAnswer, Ukraine
 
 Position: Senior frontend developer
