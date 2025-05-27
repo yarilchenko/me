@@ -5,9 +5,13 @@ Artem Yarylchenko
 
 ## Contacts
 Phone: +38(093)693-39-65
+
 Email: a.yarilchenko@gmail.com
+
 Telegram: @ayarylchenko
+
 LinkedIn: https://www.linkedin.com/in/artem-yarylchenko-36495b165/
+
 
 ## Personal information:
 *DOB:* November 2, 1990
